@@ -11,7 +11,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height=180em src="https://github-readme-stats-eight-theta.vercel.app/api?username=mbranches&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbranches&card_width=400&layout=compact&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true"/>
 </div>
