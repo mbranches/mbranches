@@ -1,10 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 <h1 align="left">Olá 👋! eu sou Marcus Branches</h1>
 
 ###
 
 <div align="center">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=mbranches&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbranches&theme=tokyonight&hide_border=true&show_icons=true&layout=compact"/>
+  <img height=180em src="https://github-readme-stats-eight-theta.vercel.app/api?username=mbranches&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbranches&theme=dark&hide_border=true&show_icons=true&layout=compact"/>
 </div>
 
 ###
@@ -18,33 +19,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" /><img width="12" />
 </div>
 
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbranches&theme=github-compact&custom_title=Minhas%20Atividades%20&hide_border=true"/>
+</div>
+
 ###
 
 <div align="left">
   <a  href="https://www.linkedin.com/in/marcusbranches/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   <a href = "mailto:marcusvbranches@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
-  <a href="https://instagram.com/mbranches9" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!--
-**mbranches/mbranches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
