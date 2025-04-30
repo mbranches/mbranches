@@ -11,21 +11,21 @@
 
 ###
 <div align="center">
-  <img height=120 src=""/>
-  <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbranches&card_width=400&layout=compact&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&line_height=47"/>
+  <img height=120 src="https://github-readme-stats.vercel.app/api?username=mbranches&hide=stars,prs,issues,contribs&show_icons=true&icon_color=FF9C00&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&hide_rank=true&line_height=47?"/>
+  <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbranches&card_width=400&layout=compact&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&line_height=47?"/>
 
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mbranches&theme=transparent&hide_border=true&locale=pt_BR&card_width=900&background=0D1117&ring=FF9C00&fire=EB5454&sideNums=FF9C00&stroke=FFF8F8&currStreakNum=EB5454&currStreakLabel=FFF8F8&dates=90908E&sideLabels=FFF8F8"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mbranches&theme=transparent&hide_border=true&locale=pt_BR&card_width=900&background=0D1117&ring=FF9C00&fire=EB5454&sideNums=FF9C00&stroke=FFF8F8&currStreakNum=EB5454&currStreakLabel=FFF8F8&dates=90908E&sideLabels=FFF8F8?"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbranches&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Gráfico%20de%20contribuições"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbranches&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Gráfico%20de%20contribuições?"/>
 </div>
 
 ###
