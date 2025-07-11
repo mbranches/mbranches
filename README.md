@@ -1,13 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 <h1 align="left">Olá 👋! eu sou Marcus Branches</h1>
 
-<p> 🚀 Tenho 17 anos, Sou estudante de Engenharia de Software na <strong>Universidade do Estado do Pará (Uepa)</strong>, estudo para progamação, mais especificamente Backend, há pelo menos 2 anos. Minha stack principal é <strong>Java</strong> com <strong>Spring Boot</strong>.</p>
+###
+## 📄 Sobre Mim
+<p>Tenho 17 anos, Sou estudante de Engenharia de Software na <strong>Universidade do Estado do Pará (Uepa)</strong>, estudo para progamação, mais especificamente Backend, há pelo menos 2 anos. Sou movido por inovação e desafios e estou sempre aberto para novos aprendizados. Minha stack principal é <strong>Java</strong> com <strong>Spring Boot</strong>.</p>
 
 <p>Atualmente sou Desenvolvedor Java - Voluntário, na Fly Educação e Cultura, onde atuo no desenvolvimento e na manutenção de funcionalidades da API REST do projeto FlyFlix, o qual visa capacitar indivíduos em situação de vulnerabilidade social e grupos sub-representados no Brasil e América Latina.</p>
 
 ###
 
-## 🛠 Conhecimentos
+## 💻 Conhecimentos
+<p>Algumas tecnologias que possuo conhecimento:</p>
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" title="Spring Boot"/>  
@@ -32,6 +35,18 @@
 </div>
 
 ###
+
+## 🌐 Contatos
+
+<p>Entre em contato comigo!</p>
+
+<div align="left" >
+  <a  href="https://www.linkedin.com/in/marcusbranches/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
+  <a href = "mailto:marcusvbranches@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/></a>
+</div>
+
+###
+
 <div align="center">
   <img height=120 src="https://github-readme-stats.vercel.app/api?username=mbranches&hide=stars,prs,issues,contribs&show_icons=true&icon_color=FF9C00&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&hide_rank=true&line_height=47?"/>
   <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbranches&card_width=400&layout=compact&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&line_height=47?"/>
@@ -48,13 +63,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbranches&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Gráfico%20de%20contribuições?"/>
-</div>
-
-###
-
-<div align="left" >
-  <a  href="https://www.linkedin.com/in/marcusbranches/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
-  <a href = "mailto:marcusvbranches@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/></a>
 </div>
 
 ###
