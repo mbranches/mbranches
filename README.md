@@ -5,7 +5,7 @@
 ## 📄 Sobre Mim
 <p>Tenho 17 anos, Sou estudante de Engenharia de Software na <strong>Universidade do Estado do Pará (Uepa)</strong>, estudo para progamação, mais especificamente Backend, há pelo menos 2 anos. Sou movido por inovação e desafios e estou sempre aberto para novos aprendizados. Minha stack principal é <strong>Java</strong> com <strong>Spring Boot</strong>.</p>
 
-<p>Atualmente sou Desenvolvedor Java - Voluntário, na Fly Educação e Cultura, onde atuo no desenvolvimento e na manutenção de funcionalidades da API REST do projeto FlyFlix, o qual visa capacitar indivíduos em situação de vulnerabilidade social e grupos sub-representados no Brasil e América Latina.</p>
+<p>Atualmente sou Estagiário em Desenvolvimento Backend, na Petize, onde atuo, em sistema ERP e sistema financeiro, na criação e manuntenção de funcionalidades.</p>
 
 ###
 
