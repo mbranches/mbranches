@@ -3,7 +3,7 @@
 
 ###
 ## 📄 Sobre Mim
-<p>Tenho 17 anos, Sou estudante de Engenharia de Software na <strong>Universidade do Estado do Pará (Uepa)</strong>, estudo para progamação, mais especificamente Backend, há pelo menos 2 anos. Sou movido por inovação e desafios e estou sempre aberto para novos aprendizados. Minha stack principal é <strong>Java</strong> com <strong>Spring Boot</strong>.</p>
+<p>Sou estudante de Engenharia de Software na <strong>Universidade do Estado do Pará (Uepa)</strong>, estudo para progamação, mais especificamente Backend, há pelo menos 2 anos. Sou movido por inovação e desafios e estou sempre aberto para novos aprendizados. Minha stack principal é <strong>Java</strong> com <strong>Spring Boot</strong>.</p>
 
 <p>Atualmente sou Estagiário em Desenvolvimento Backend, na Petize, onde atuo, em sistema ERP e sistema financeiro, na criação e manuntenção de funcionalidades.</p>
 
