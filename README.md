@@ -9,8 +9,8 @@
 
 ###
 
-## 💻 Conhecimentos
-<p>Algumas tecnologias que possuo conhecimento:</p>
+## 💻 Tecnologias
+<p>Principais tecnologias:</p>
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" title="Spring Boot"/>  
