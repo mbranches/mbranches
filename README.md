@@ -3,9 +3,22 @@
 
 ###
 ## 📄 Sobre Mim
-<p>Sou estudante de Engenharia de Software na <strong>Universidade do Estado do Pará (Uepa)</strong>, estudo para progamação, mais especificamente Backend, há pelo menos 2 anos. Sou movido por inovação e desafios e estou sempre aberto para novos aprendizados. Minha stack principal é <strong>Java</strong> com <strong>Spring Boot</strong>.</p>
 
-<p>Atualmente sou Estagiário em Desenvolvimento Backend, na Petize, onde atuo, em sistema ERP e sistema financeiro, na criação e manuntenção de funcionalidades.</p>
+Sou estudante de Engenharia de Software na **Universidade do Estado do Pará (UEPA)** e Desenvolvedor Backend com foco em **Java + Spring Boot**, atuando no desenvolvimento de soluções escaláveis, integrações financeiras e sistemas críticos.
+
+Atualmente trabalho no ecossistema **Adiante.me**, contribuindo principalmente para uma fintech de antecipação de recebíveis (**CreditSaúde**) e para o sistema de emissão de notas fiscais (**Adiante.me Notas**), participando ativamente desde a concepção até a sustentação das aplicações.
+
+Tenho experiência no desenvolvimento e manutenção de **APIs REST**, modelagem e otimização de bancos de dados **MySQL** e **PostgreSQL**, além de integrações com serviços externos como **Stripe**, **Celcoin**, **Itaú Boletos API**, **Enotas** e **Docusign**.
+
+Também atuo com:
+
+* Otimização de queries utilizando **JPA Projections**
+* Implementação de **Webhooks com Idempotência**
+* Manipulação de dados sensíveis e rotinas automatizadas
+* Testes, code review e sustentação de sistemas
+* Desenvolvimento de funcionalidades do zero em ambiente ágil
+
+Sou movido por desafios, aprendizado contínuo e pela construção de soluções backend robustas, performáticas e escaláveis.
 
 ###
 
